@@ -98,7 +98,7 @@
     - **Connection to Ground and 3.3V:** Connect one side to the ground and the other to 3.3V.
     - **Middle Pin Connection:** Connect the middle pin to adjust the brightness.
   
-### Slide 11: Conclusion
+## Conclusion
   - **Configured LCD**: Successfully configured LCD pin as output.
   - **Code Implementation**: Wrote code to display onan LED.
   - **Project Deployment**: Compiled and flashed the code, verifying functionality.
