@@ -102,3 +102,7 @@
   - **Configured LCD**: Successfully configured LCD pin as output.
   - **Code Implementation**: Wrote code to display onan LED.
   - **Project Deployment**: Compiled and flashed the code, verifying functionality.
+
+## Reference
+![alt text](images/pinout-left.png)
+![alt text](images/pinout-right.png)
